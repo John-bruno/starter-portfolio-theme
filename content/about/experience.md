@@ -56,7 +56,7 @@ experience:
     company_logo: org-x
     location: Marietta, GA
     date_start: '2019-01-10'
-    date_end: '2022-12-03'
+    date_end: '2022-03-03'
     description: |2- 
        Responsibilities include:
 
