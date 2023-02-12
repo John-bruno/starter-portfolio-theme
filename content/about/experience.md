@@ -61,11 +61,7 @@ experience:
     description: |2- 
         Responsibilities include:
 
-        * Observed in-progress operations to identify important steps for technical instructions
-        *  Incorporate updates and corrections into a wide array of aeronautics manuals
-        *  Modify manuals using knowledge of publishing software and military specifications
-        *  Conducted proofreading, technical writing, and editing for the development of user manuals, business proposals, white papers, and reports for an industry-leading aerospace company
-        *  Collaborate closely with Development Engineers, Quality Engineers, Product Management, Release Managers, and Co-writers
+        
 
   
 
