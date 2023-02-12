@@ -26,8 +26,8 @@ experience:
     company: Priority Payment Systems
     company_url: 'https://prioritycommerce.com/'
     company_logo: org-gc
-    location: Alpharetta
-    date_start: '2022-01-12'
+    location: Alpharetta. GA
+    date_start: '2022-02-12'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,20 +41,19 @@ experience:
     company_url: 'https://tilled.com/'
     company_logo: org-x
     location: Remote
-    date_start: '2022-01-03'
-    date_end: '2022-12-11'
+    date_start: '2022-03-03'
     description: |2- 
         Responsibilities include:
 
         * Strengthened content of technical proposals, company manuals, employee forms, and contract deliverables in collaboration with marketing and operations departments
         * Created high-quality, relevant user content, such as conceptual summaries, task-based tasks, best practices, APIs, technical reference materials, and knowledge-base articles
         * Directly contributed to API documentation using the software version control system Git
-      * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
+        * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
   
- - title: Technical Writer
+  - title: Technical Writer
     company: Lockheed Martin, Aeronautics  
     company_url: 'https://www.lockheedmartin.com/en-us/index.html'
-    company_logo: org-LM
+    company_logo: org-x
     location: Marietta, GA
     date_start: '2019-01-10'
     date_end: '2022-12-03'
@@ -66,6 +65,7 @@ experience:
        * Modify manuals using knowledge of publishing software and military specifications
        * Conducted proofreading, technical writing, and editing for the development of user manuals, business proposals, white papers, and reports for an industry-leading aerospace company
        *  Collaborate closely with Development Engineers, Quality Engineers, Product Management, Release Managers, and Co-writers
+
 
 
 
