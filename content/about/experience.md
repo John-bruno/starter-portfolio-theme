@@ -50,21 +50,9 @@ experience:
         * Created high-quality, relevant user content, such as conceptual summaries, task-based tasks, best practices, APIs, technical reference materials, and knowledge-base articles
         * Directly contributed to API documentation using the software version control system Git
         * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
-  
- experience:
-  - title: Technical Writer
-    company: Priority Payment Systems
-    company_url: 'https://prioritycommerce.com/'
-    company_logo: org-gc
-    location: Alpharetta
-    date_start: '2022-01-12'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Experience in writing and publishing release notes for software or hardware products
-        * Ability to participate in Agile ceremonies such as sprint planning, daily stand-ups, sprint retrospectives, and demos
-        * Knowledge of RESTful API design principles and best practices
+
+
+
 
 
 design:
