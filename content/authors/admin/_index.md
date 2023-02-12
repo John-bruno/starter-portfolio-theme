@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: John Bruno
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,10 +47,13 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/__JohnBruno
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/John-bruno
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/john-bruno-b32b9116b/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
