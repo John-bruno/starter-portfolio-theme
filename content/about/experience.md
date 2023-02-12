@@ -36,14 +36,21 @@ experience:
         * Ability to participate in Agile ceremonies such as sprint planning, daily stand-ups, sprint retrospectives, and demos
         * Knowledge of RESTful API design principles and best practices
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Technical Writer
+    company: Tilled
+    company_url: 'https://tilled.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Remote
+    date_start: '2022-01-03'
+    date_end: '2022-12-11'
+    description: |2- 
+        Responsibilities include:
+
+         * Strengthened content of technical proposals, company manuals, employee forms, and contract deliverables in collaboration with marketing and operations departments
+        * Created high-quality, relevant user content, such as conceptual summaries, task-based tasks, best practices, APIs, technical reference materials, and knowledge-base articles
+        * Directly contributed to API documentation using the software version control system Git
+        * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
+
 
 design:
   columns: '1'
