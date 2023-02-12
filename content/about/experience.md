@@ -51,16 +51,6 @@ experience:
         * Directly contributed to API documentation using the software version control system Git
         * Interviewed programmers, engineers, developers, and other technical personnel. Reads previous documentation and design notes, and uses computer-based training or company technical products to gather and research complex technical information for use in complex documentation
 
-- title: Technical Writer
-    company: Lockheed Martin, Aeronautics  
-    company_url: 'https://www.lockheedmartin.com/en-us/index.html'
-    company_logo: org-LM
-    location: Marietta, GA
-    date_start: '2019-01-10'
-    date_end: '2022-12-03'
-    description: |2- 
-        Responsibilities include:
-
         
 
   
