@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Articles
       tag: ML
-    - name: Computer Vision
+    - name: Technical Documentation
       tag: CV
-    - name: NLP
+    - name: User Guides
       tag: NLP
 
 design:
