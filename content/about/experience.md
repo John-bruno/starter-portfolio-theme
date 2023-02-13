@@ -25,7 +25,7 @@ experience:
   - title: Technical Writer
     company: Priority Payment Systems
     company_url: 'https://prioritycommerce.com/'
-    company_logo: org-gc
+    company_logo: org-P
     location: Alpharetta. GA
     date_start: '2022-02-12'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Technical Writer
     company: Tilled
     company_url: 'https://tilled.com/'
-    company_logo: org-x
+    company_logo: org-T
     location: Remote
     date_start: '2022-03-03'
     description: |2- 
@@ -53,7 +53,7 @@ experience:
   - title: Technical Writer
     company: Lockheed Martin, Aeronautics  
     company_url: 'https://www.lockheedmartin.com/en-us/index.html'
-    company_logo: org-x
+    company_logo: org-LM
     location: Marietta, GA
     date_start: '2019-01-10'
     date_end: '2022-03-03'
